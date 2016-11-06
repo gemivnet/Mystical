@@ -1,47 +1,28 @@
 # Mystical
-This was a game I made in Java for my English class in 11th grade
+This was a game I made in Java for my 11th grade English class. The game teaches 5 rhetorical terms.
 
 ##Credits
-The Mystical Game~
-~
-AP English 3~
-Mrs. DeDonato~
-April 6, 2015~
-~
-Programming - George Main IV~
-Graphics - George Main IV~
-~
-Music~
-~
-Resistor Anthems~
-Eric Skiff~
-http://ericskiff.com/music/~
-~
-Kevin MacLeod~
-incompetech.com~
-~
-Font - 8 Bit Operator Font~
-http://www.1001freefonts.com/8_bit_operator.font~
-~
-Rhetorical Terms Definitions~
-~
-Hyperbole ~
-~
-http://www.merriam-webster.com/dictionary/hyperbole~
-http://literary-devices.com/content/hyperbole~
-~
-Deduction~
-~
-http://grammar.about.com/od/d/g/deductionterm.htm~
-http://whatis.techtarget.com/definition/inductive-reasoning~
-~
-Connotation~
-~
-http://literary-devices.com/content/connotation~
-http://literarydevices.net/connotation/~
-http://examples.yourdictionary.com/examples-of-connotative-words.html~
-~
-Didactic~
-~
-http://literarydevices.net/didacticism/~
-http://www.literarydevices.com/didacticism/~
+
+###Music~
+
+<ul>
+<li>Resistor Anthems, Eric Skiff, http://ericskiff.com/music/</li>
+<li>Kevin MacLeod, incompetech.com</li>
+</ul>
+
+###Font
+<ul>
+<li>8 Bit Operator Font, http://www.1001freefonts.com/8_bit_operator.font~</li>
+</ul>
+###Rhetorical Terms Definitions
+<ul>
+<li>http://www.merriam-webster.com/dictionary/hyperbole</li>
+<li>http://literary-devices.com/content/hyperbole</li>
+<li>http://grammar.about.com/od/d/g/deductionterm.htm</li>
+<li>http://whatis.techtarget.com/definition/inductive-reasoning</li>
+<li>http://literary-devices.com/content/connotation</li>
+<li>http://literarydevices.net/connotation/</li>
+<li>http://examples.yourdictionary.com/examples-of-connotative-words.html</li>
+<li>http://literarydevices.net/didacticism/</li>
+<li>http://www.literarydevices.com/didacticism/</li>
+</ul>
