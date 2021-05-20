@@ -3,7 +3,7 @@ This was a game I made in Java for my 11th grade English class. The game teaches
 
 ## Credits
 
-### Music~
+### Music
 
 <ul>
 <li>Resistor Anthems, Eric Skiff, http://ericskiff.com/music/</li>
