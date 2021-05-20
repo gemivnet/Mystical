@@ -1,20 +1,20 @@
 # Mystical
 This was a game I made in Java for my 11th grade English class. The game teaches 5 rhetorical terms.
 
-##Credits
+## Credits
 
-###Music~
+### Music~
 
 <ul>
 <li>Resistor Anthems, Eric Skiff, http://ericskiff.com/music/</li>
 <li>Kevin MacLeod, incompetech.com</li>
 </ul>
 
-###Font
+### Font
 <ul>
 <li>8 Bit Operator Font, http://www.1001freefonts.com/8_bit_operator.font~</li>
 </ul>
-###Rhetorical Terms Definitions
+### Rhetorical Terms Definitions
 <ul>
 <li>http://www.merriam-webster.com/dictionary/hyperbole</li>
 <li>http://literary-devices.com/content/hyperbole</li>
